@@ -1,6 +1,9 @@
 *{
     font-family: Manrope;
 }
+main{
+    background-color : #dfd9ff;
+}
 .navigation img{
     width: 35px;
     margin-right: 10px;
