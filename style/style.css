@@ -7,13 +7,11 @@ body{
 .navigation img{
     width: 35px;
     margin-right: 10px;
-
 }
 .navigation{
     display: flex;
     align-items: center;
 }
-
 ul{
     display: flex;
     list-style: none;
@@ -25,12 +23,10 @@ ul{
 header{
     height: 40px;
 }
-
 li{
     margin-right: 10px;
     list-style: none;
 }
-
 .onboard-container{
     position: relative;
     display: flex;
@@ -56,7 +52,6 @@ li{
     border-radius: 10px;
     color: white;
 }
-
 .cardview{
     display: flex;
     flex-direction: row;
@@ -65,7 +60,6 @@ li{
     margin: 0px auto;
     justify-content: space-between;
 }
-
 .card{
     width: max-content;
     padding: 20px;
