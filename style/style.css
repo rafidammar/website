@@ -1,0 +1,74 @@
+*{
+    font-family: Manrope;
+}
+.navigation img{
+    width: 35px;
+    margin-right: 10px;
+
+}
+.navigation{
+    display: flex;
+    align-items: center;
+}
+
+ul{
+    display: flex;
+    list-style: none;
+    margin: 0px auto;
+    width: 500px;
+    justify-content: space-between;
+    align-items: center;
+}
+header{
+    height: 40px;
+}
+
+li{
+    margin-right: 10px;
+    list-style: none;
+}
+
+.onboard-container{
+    position: relative;
+    display: flex;
+    width : 1250px;
+    margin : 0px auto;
+    max-width: 100%;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.text-onboard{
+    align-self: center;
+}
+.image-onboard{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+#button-daftar{
+    width: 100px;
+    border: none;
+    height: 30px;
+    font-weight: 800;
+    background-color: #6942f5;
+    border-radius: 10px;
+    color: white;
+}
+
+.cardview{
+    display: flex;
+    flex-direction: row;
+    width: 1250px;
+    max-width: 100%;
+    margin: 0px auto;
+    justify-content: space-between;
+}
+
+.card{
+    width: max-content;
+    padding: 20px;
+    box-shadow: 0 0 2px 1px #6942f5;
+    border-radius: 40px;
+}
+.card h1{
+    margin-bottom: 10;
+}
